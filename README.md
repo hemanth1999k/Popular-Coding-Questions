@@ -1,0 +1,1 @@
+Hey everyone! I will be regularly updating this repository with popular coding questions, categorized by company. Whether you’re preparing for interviews or just looking to improve your coding skills, you’ll find a wealth of resources here. Stay tuned for frequent updates and happy coding
